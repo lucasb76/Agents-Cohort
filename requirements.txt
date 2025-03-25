@@ -4,4 +4,5 @@ numpy
 matplotlib
 prophet
 python-dotenv
-openai  # If needed for AI commentary
+openpyxl
+openai
